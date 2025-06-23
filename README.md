@@ -1,5 +1,5 @@
-## 📊 Zarin Shirinli - Məşğələ 2 (Power BI)
-Bu Power BI layihəsi Dərs 2 çərçivəsində hazırlanmış və verilən dataset əsasında müxtəlif vizualizasiya və təhlil imkanları təqdim edir.
+## 📊 Zarin Shirinli - Dərman satışlarının analizi (Power BI)
+Bu Power BI layihəsi verilən dataset əsasında müxtəlif vizualizasiya və təhlil imkanları təqdim edir.
 
 ## 📁 Fayl Haqqında
 Fayl Adı: Zarin_Shirinli_mesgele_Ders_2.pbix
